@@ -33,11 +33,6 @@ To run the deployment and use the interface, execute:
 $ python vision3.py
 ```
 
-Make sure to install the required dependencies using:
-
-```bash
-$ pip install -r requirements.txt
-```
 
 ## Usage
 
@@ -71,6 +66,20 @@ The project achieved an 80% accuracy rate in object classification, effectively 
 ## Project Management
 
 Employing an Agile methodology, the project maintained a flexible and iterative approach to development. Regular feedback sessions from the sponsor and mentor guided the project’s evolution, proving instrumental in navigating the challenges of continual learning and model adaptation.
+
+## Citation
+
+If you find this project useful for your work, please consider citing the following paper, which inspired the model used in this project:
+
+```
+@InProceedings{Hayes_2020_CVPR_Workshops,
+    author = {Hayes, Tyler L. and Kanan, Christopher},
+    title = {Lifelong Machine Learning With Deep Streaming Linear Discriminant Analysis},
+    booktitle = {The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+    month = {June},
+    year = {2020}
+}
+```
 
 ## License
 
