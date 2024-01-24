@@ -8,7 +8,7 @@ Continuous Learning Object Classification is a Python-based system developed for
 
 ## Demo
 
-Watch a demo of the project: [Demo Video](link-to-demo-video)
+Watch a demo of the project: [Demo Video](Demo.mkv)
 
 ## Table of Contents
 
